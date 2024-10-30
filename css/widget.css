@@ -1,0 +1,22 @@
+.Infobox-Widget {
+	background-color: #BDC6CF;
+}
+.cta  {
+	color: #242424;
+	background-color: #F5F8F9;
+	padding: 10px;
+}
+
+  .widget.Infobox-Widget h2.widget-title {	
+	text-align: center;
+	font-weight: bold;
+	color: #242424;
+}
+
+.cta a {	
+	color: #4CD964;
+	font-weight: 500;
+}
+.cta a:hover {	
+	color: #26b33e;
+}
